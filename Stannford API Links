@@ -1,0 +1,9 @@
+Hi Hedieh,
+
+Data format was CoNLL 2011/2012 shared task format: http://conll.cemantix.org/2012/introduction.html
+
+Algorithms: See the various papers: https://stanfordnlp.github.io/CoreNLP/coref.html
+
+Source code: https://github.com/stanfordnlp/CoreNLP
+
+Chris.
